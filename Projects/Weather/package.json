@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "leaflet": "^1.5.1"
+    "express": "^4.17.1",
+    "leaflet": "^1.5.1",
+    "nodemon": "^1.19.4"
   }
 }
